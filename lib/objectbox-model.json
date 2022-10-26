@@ -1,0 +1,66 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:8155731228282267258",
+      "lastPropertyId": "10:3344507377972112903",
+      "name": "Currency",
+      "properties": [
+        {
+          "id": "1:733265298940398381",
+          "name": "pkIId",
+          "type": 6
+        },
+        {
+          "id": "2:5979794922604453605",
+          "name": "sCode",
+          "type": 9
+        },
+        {
+          "id": "3:1732214640388366729",
+          "name": "sName",
+          "type": 9
+        },
+        {
+          "id": "4:5287257488944627962",
+          "name": "dValue",
+          "type": 9
+        },
+        {
+          "id": "5:3002773130519245543",
+          "name": "dTrading",
+          "type": 9
+        },
+        {
+          "id": "6:6787473047687408715",
+          "name": "sIcon",
+          "type": 9
+        },
+        {
+          "id": "10:3344507377972112903",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:8155731228282267258",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    436491808736956399,
+    7932549643354334874,
+    7846423218625333818
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
